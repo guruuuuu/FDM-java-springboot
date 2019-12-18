@@ -1,0 +1,12 @@
+.fa-window-close{
+	color: brown;
+}
+
+.fa-window-close:hover{
+	cursor: pointer;
+	color: red;
+}
+.fa-pencil:hover {
+	cursor: pointer;
+	color: black;
+}
